@@ -5,4 +5,4 @@ Code work associated with the Udemy course "100 Days of Code: The Complete Pytho
 ## Course URL
 https://www.udemy.com/course/python-the-complete-python-developer-course/
 
-![Course Landing](2022-03-31.png)
+![Course Landing](2022-04-04_16-33-38.png)
